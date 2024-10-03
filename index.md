@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Getting Started. Better late than never.
 
-Maybe say a some things about yourself.
+Hope you enjoy reading the articles here!
 
-Or maybe what you plan to blog about.
+
