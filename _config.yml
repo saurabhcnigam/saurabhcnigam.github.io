@@ -25,6 +25,12 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
+
+header_pages:
+  - resume.html
+  - archive.html
+#  - books.md # Commenting out for now as putting more focus on pluralsight than reading
+  - bookmarks.md
     
 plugins:
   - jekyll-feed
